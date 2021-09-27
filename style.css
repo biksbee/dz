@@ -1,0 +1,16 @@
+body{
+    background-color: #FAEBD7;
+}
+.content{
+
+    margin: 0 20%;
+    border: 1px solid red;
+}
+.dz{
+    border: 0px solid red;
+    margin: 50px;
+    font-size: 20px;
+}
+.dz:hover{
+    font-size: 20.5px;
+}
